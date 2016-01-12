@@ -1,0 +1,8 @@
+" In addition to maximum-awesome bundles, install these.
+
+" Automatically close tags, parens, brackets.
+Plugin 'Raimondi/delimitMate'
+" Jade syntax
+Plugin 'digitaltoad/vim-jade'
+" Less css syntax
+Plugin 'groenewege/vim-less'
